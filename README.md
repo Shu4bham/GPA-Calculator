@@ -1,5 +1,5 @@
 # GPA-Calculator
-<a href="https://gpa-calculator-shu4bham.vercel.app/"> Try here </a>
+<a href="https://gpa-calculator-shu4bham.vercel.app/"> Try here </a> <br>
 GPA Calculator is a web application built using HTML, CSS, and JavaScript that allows users to calculate their Grade Point Average (GPA) based on the grades they received and the credits assigned to each course. It offers a user-friendly interface where users can input the course name, grade received, and course credits for multiple courses across various semesters.
 
 # Features
